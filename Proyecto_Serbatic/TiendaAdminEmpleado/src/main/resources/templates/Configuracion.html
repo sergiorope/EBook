@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+
+<div th:replace="includes/Navbar.html"></div>
+<div class="container mt-5">
+    <div class="card">
+        <div class="card-header bg-dark text-white">
+            <h2 class="mb-0">Información de la Empresa</h2>
+        </div>      
+        <div class="card-body">
+            <form th:action="@{/ControladorConfiguracion/ActualizarConfiguracion}" th:object="${Configuracion}" method="POST">
+               
+            
+                <input type="hidden" id="id" name="id" th:value="${Configuracion.id}" />
+                
+                <div class="form-group">
+                    <label for="clave">Clave:</label>
+                    <input type="text" class="form-control" id="clave" name="clave" th:value="${Configuracion.clave}" required>
+                </div>
+                <div class="form-group">
+                    <label for="valor">Valor:</label>
+                    <input type="text" class="form-control" id="valor" name="valor" th:value="${Configuracion.valor}" rows="3" required>
+                </div>
+                <br>
+                <button type="submit" class="btn btn-primary">Guardar</button>
+            </form>
+        </div>
+    </div>
+    
+</div>
+
+<div th:replace="includes/Footer.html"></div>
+</body>
+</html>

@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+   <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+<div th:replace="includes/Navbar.html"></div>
+
+<div class="content">
+<div class="container-fluid mt-2">
+    <div class="col-lg-10 col-md-11 col-sm-12 mx-auto">
+    
+        <div class="card-header bg-dark text-white">
+            <h5 class="card-title">Lista de Empleados</h5>
+        </div>
+         <div class="card">
+       <ul class="list-group list-group-flush">
+            <li class="list-group-item" th:each="usuario : ${listausuarios}" >
+              
+                <div class="row">
+                    <div class="col-md-2">
+                        <strong>Email:</strong> <span th:text="${usuario.email}"></span>
+                    </div>
+                    <div class="col-md-2">
+                        <strong>Clave:</strong> <span th:text="${usuario.clave}"></span>
+                    </div>
+                    <div class="col-md-1">
+                        <strong>Nombre:</strong> <span th:text="${usuario.nombre}"></span>
+                    </div>
+                    <div class="col-md-2">
+                        <strong>Apellidos:</strong> <span th:text="${usuario.apellidos}"></span>
+                    </div>
+                   <div class="col-md-2">
+                        <strong>Estado:</strong> 
+                      
+                        <span th:text="${usuario.baja == 1 ? 'Disponible' : 'No disponible'}"
+                              th:class="${usuario.baja == 1 ? 'text-success fw-bold' : 'text-danger'}"></span>
+                    </div>
+					<div class="col-md-3 d-flex align-items-center">  
+						<a class="btn btn-primary me-1" th:href="@{/ControladorUsuario/RutaActualizacionEmpleado(idUsuario=${usuario.id})}">Actualizar</a>
+						<div th:if="${usuario.baja == 1}">
+						    <a class="btn btn-danger" th:href="@{/ControladorUsuario/DarBajaEmpleado(idUsuario=${usuario.id})}">Dar de baja</a>
+						</div>
+						<div th:if="${usuario.baja == 0}">
+						    <a class="btn btn-success" th:href="@{/ControladorUsuario/DarAltaEmpleado(idUsuario=${usuario.id})}">Dar de alta</a>
+						</div>
+					</div>
+                </div>
+            </li>
+        </ul>
+    </div>
+     </div>
+      </div>
+</div>
+</body>
+</html>

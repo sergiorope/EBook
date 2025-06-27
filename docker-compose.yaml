@@ -1,0 +1,16 @@
+services:
+##SERVICIO DE BASE DE DATOS MYSQL##
+  mysql_db:
+    container_name: mysql
+    image: mysql:latest    
+    ports:
+      - 3308:3306  
+
+  ##SERVICIO DE ADMINISTRADOR GRAFICO DE LA BASE DE DATOS##
+  phpmyadmin:
+    image: phpmyadmin:latest
+    restart: always
+    ports:
+      - 80:80
+    depends_on:
+      - mysql_db

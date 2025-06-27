@@ -1,0 +1,65 @@
+<!DOCTYPE html>
+<html lang="es" xmlns:th="http://www.thymeleaf.org">
+<head>
+    <th:block th:replace="includes/Head.html"></th:block>
+</head>
+
+<body>
+
+
+
+<div th:replace="includes/Navbar.html"></div>
+<div class="content">
+<div class="container mt-2">
+    <div class="card">
+        <div class="card-header bg-primary text-white">
+            <h2 class="mb-0">Cambio Contraseña</h2>
+             <div class="card-body">
+        <p>Por favor sigue los siguientes pasos para cambiar tu contraseña:</p>
+        <ol>
+            <li>Ingresa tu contraseña actual para verificar tu identidad.</li>
+            <li>Una vez verificada, ingresa tu nueva contraseña y confírmala.</li>
+            <li>Haz clic en "Guardar" para aplicar los cambios.</li>
+        </ol>
+        <!-- Aquí puedes colocar el formulario como lo tienes actualmente -->
+    </div>
+        </div>
+        <div class="card-body">
+            <div th:unless="${comprobado}">
+                <form th:action="@{/ControladorUsuario/ComprobarClave}" method="POST">
+                    <div class="form-group">
+                        <label for="nueva-clave">Introduce la clave actual:</label>
+                        <input type="password" class="form-control" name="claveactual" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    <div th:if="${actualizado}" class="alert alert-success" role="alert">
+                        <span th:text="${actualizado}"></span>
+                    </div>
+                    <div th:if="${error}" class="alert alert-danger" role="alert">
+                        <span th:text="${error}"></span>
+                    </div>
+                     <div th:if="${erroractual}" class="alert alert-danger" role="alert">
+                        <span th:text="${erroractual}"></span>
+                    </div>
+                </form>
+            </div>
+            <div th:if="${comprobado}">
+                <form th:action="@{/ControladorUsuario/CambiarClave}" th:object="${usuario}" method="POST">
+                    <div class="form-group">
+                        <label for="nueva-clave">Nueva contraseña:</label>
+                        <input type="password" class="form-control" id="nueva-clave" name="nueva-clave" required>
+                    </div>
+                    <div class="form-group">
+                        <label for="confirmar-clave">Confirmar nueva contraseña:</label>
+                        <input type="password" class="form-control" id="confirmar-clave" name="confirmar-clave" required>
+                    </div>
+                    <button type="submit" class="btn btn-primary">Guardar</button>
+                    
+                </form>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

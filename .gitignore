@@ -1,0 +1,10 @@
+# Ignorar el socket de MySQL
+mysql_data/mysql.sock
+
+# Ignorar todos los archivos binarios temporales de MySQL
+mysql_data/*.pid
+mysql_data/*.sock
+mysql_data/*.err
+mysql_data/ib*
+mysql_data/auto.cnf
+mysql_data/binlog.*

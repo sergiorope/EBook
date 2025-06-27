@@ -1,0 +1,16 @@
+package ModeloVO;
+
+import lombok.AllArgsConstructor;
+import lombok.Data;
+import lombok.NoArgsConstructor;
+
+@Data 
+@AllArgsConstructor
+@NoArgsConstructor
+public class ConfiguracionVO {
+
+	private int id;
+	private String clave;
+	private String valor;
+
+}

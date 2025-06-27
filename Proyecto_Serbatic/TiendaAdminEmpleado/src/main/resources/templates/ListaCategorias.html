@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+   <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+<div th:replace="includes/Navbar.html"></div>
+
+<div class="content">
+<div class="container-fluid mt-2">
+ <div class="col-lg-9 col-md-11 col-sm-12 mx-auto">
+        <div class="card-header bg-primary text-white">
+            <h5 class="card-title">Lista de Categorías</h5>
+        </div>
+         <div class="card">
+       <ul class="list-group list-group-flush">
+            <li class="list-group-item" th:each="categoria : ${listacateg}" >
+                <div class="row">
+                    <div class="col-md-3">
+                        <strong>Nombre:</strong> <span th:text="${categoria.nombre}"></span>
+                    </div>
+                    <div class="col-md-5">
+                                    <strong>Estado:</strong> 
+                                    <span th:text="${categoria.baja == 1 ? 'Disponible' : 'No disponible'}"
+                                          th:class="${categoria.baja == 1 ? 'text-success fw-bold' : 'text-danger fw-bold'}"></span>
+                                </div>
+                
+                   <div class="col-md-2">
+                    <a class="btn btn-primary me-3" th:href="@{/ControladorCategoria/RutaActualizacionCategoria(idCategoria=${categoria.id})}">Actualizar</a>
+                    </div>
+                     <div class="col-md-2">
+                <a th:if="${categoria.baja == 1}" class="btn btn-danger" th:href="@{/ControladorCategoria/DarBaja(idCategoria=${categoria.id})}">Dar de baja</a>
+                <a th:if="${categoria.baja == 0}" class="btn btn-success" th:href="@{/ControladorCategoria/DarAlta(idCategoria=${categoria.id})}">Dar de alta</a>
+            </div>
+                </div>
+               
+            </li>
+        </ul>
+    </div>
+</div>
+</div>
+</div>
+</body>
+</html>

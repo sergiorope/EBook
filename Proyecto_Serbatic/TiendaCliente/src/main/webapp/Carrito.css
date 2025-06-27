@@ -1,0 +1,39 @@
+@charset "ISO-8859-1";
+
+.linea-producto {
+    border-bottom: 1px solid #dee2e6;
+    padding-bottom: 10px;
+}
+
+.producto-imagen {
+    width: 80px; /* Ancho fijo de la imagen */
+    height: auto; /* Altura ajustada automáticamente */
+    border-radius: 5px;
+    
+}
+
+.producto-info {
+    flex: 1;
+}
+
+.producto-acciones {
+    flex: 0 0 120px;
+}
+
+.producto-nombre {
+    margin-top: 0;
+    margin-bottom: 5px;
+}
+
+.producto-cantidad,
+.producto-precio {
+    margin-bottom: 5px;
+    font-size: 0.9rem;
+}
+
+.producto-acciones a {
+    margin-right: 5px;
+}
+
+
+

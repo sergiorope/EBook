@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+   <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+<div th:replace="includes/Navbar.html"></div>
+
+<div class="content">
+<div class="container-fluid mt-2">
+<div class="d-flex justify-content-center align-items-center">
+    <div class="row">
+        <div class="col-lg-12 col-md-11 col-sm-12 mx-auto">
+            <div class="card">
+                <div class="card-header bg-primary text-white">
+                    <h5 class="card-title">Lista de Pedidos<i class="bi bi-bag ms-2"></i></h5>
+                </div>
+                <ul class="list-group list-group-flush">
+                    <li class="list-group-item" th:each="pedido : ${listapedido}">
+                        <div class="row">
+                            <div class="col-md-1">
+                                <strong>Cliente:</strong> <span th:text="${nombreporpedido[pedido.id]}"></span>
+                            </div>
+                            <div class="col-md-2">
+                                <strong>Fecha:</strong> <span th:text="${pedido.fecha}"></span>
+                            </div>
+                            <div class="col-md-2">
+                                <strong>Método de pago:</strong> <span th:text="${pedido.metodopago}"></span>
+                            </div>
+                            <div class="col-md-2">
+                                <strong>Nº Factura:</strong>
+									<span th:text="${pedido.numfactura != null ? pedido.numfactura : 'Sin Numero'}"></span>
+                            </div>
+                            <div class="col-md-2">
+                                <strong>Estado:</strong> 
+                                <span th:if="${pedido.estado == 'E'}" class="text-success fw-bold">Enviado</span>
+                                <span th:if="${pedido.estado == 'C'}" class="text-danger fw-bold">Cancelado</span>
+                                <span th:if="${pedido.estado == 'PC'}" class="text-warning fw-bold">Pendiente Cancelacion</span>
+                                <span th:if="${pedido.estado == 'PE'}" class="text-warning fw-bold">Pendiente Envío</span>
+                                <span th:unless="${pedido.estado == 'E' || pedido.estado == 'C' || pedido.estado == 'PC' || pedido.estado == 'PE'}" th:text="${pedido.estado}"></span>
+                            </div>
+                            <div class="col-md-1">
+                                <strong th:if="${pedido.estado != 'PE'}">Total:</strong> <span th:text="${pedido.total + '€'}" th:if="${pedido.estado != 'PE'}"></span>
+                            </div>
+                            <div class="col-md-2 text-end">
+                                <a th:if="${pedido.estado == 'PE'}" class="btn btn-warning me-3" th:href="@{/ControladorPedido/ConfirmarPedido(id=${pedido.id})}">Confirmar Envío</a>
+                                <a th:if="${pedido.estado == 'PC'}" class="btn btn-danger" th:href="@{/ControladorPedido/CancelarPedido(id=${pedido.id})}">Confirmar Cancelación</a>
+                            </div>
+                        </div>
+                    </li>
+                </ul>
+            </div>
+            </div>
+        </div>
+    </div>
+    </div>
+</div>
+</body>
+</html>

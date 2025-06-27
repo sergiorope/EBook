@@ -1,0 +1,55 @@
+.navbar {
+	position: fixed;
+	top: 0;
+	bottom: 0;
+	width: 201px;
+	background-color: #343a40;
+}
+
+ul {
+
+    flex: 1; 
+    padding: 0; 
+    list-style: none; 
+}
+
+.nav-item {
+    margin-right: 20%; 
+}
+
+.navbar-brand {
+    color: #fff; 
+    text-decoration: none; 
+    color: white;
+}
+
+.navbar-end {
+    margin-top: auto; 
+}
+
+
+
+.start-session {
+	
+	margin-top:5%;
+}
+
+.bi-people-fill {
+    font-size: 0.5em; 
+}
+
+.brand-title {
+            font-size: 1.5rem; /* Tamaño del título */
+            font-weight: bold; 
+            text-decoration: none; 
+    color: white;/* Negrita */
+        }
+
+        .brand-subtitle {
+            font-size: 0.8rem; /* Tamaño del subtitulo */
+            color: #b3b3b3; /* Color del subtitulo */
+        }
+        
+    .content {
+    margin-left: 210px; /* Ajusta el valor según el ancho del navbar */
+}

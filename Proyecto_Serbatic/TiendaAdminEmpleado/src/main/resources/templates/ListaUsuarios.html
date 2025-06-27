@@ -1,0 +1,56 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+   <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+<div th:replace="includes/Navbar.html"></div>
+
+<div class="content">
+<div class="container-fluid mt-2">
+    <div class="d-flex justify-content-center">
+        <div class="row">
+            <div class="col-lg-12 col-md-11 col-sm-12 mx-auto">
+                <div class="card">
+                    <div class="card-header bg-primary text-white">
+                        <h5 class="card-title">Lista de Clientes<i class="bi bi-person ms-2"></i></h5>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item" th:each="usuario : ${listausuarios}" >
+                            <div class="row">
+                                <div class="col-md-2">
+                                    <strong>Email:</strong> <span th:text="${usuario.email}"></span>
+                                </div>
+                                <div class="col-md-1">
+                                    <strong>Clave:</strong> <span th:text="${usuario.clave}"></span>
+                                </div>
+                                <div class="col-md-2">
+                                    <strong>Nombre:</strong> <span th:text="${usuario.nombre}"></span>
+                                </div>
+                                <div class="col-md-2">
+                                    <strong>Apellidos:</strong> <span th:text="${usuario.apellidos}"></span>
+                                </div>
+                                <div class="col-md-2">
+                                    <strong>Estado:</strong> 
+                                    <span th:text="${usuario.baja == 1 ? 'Disponible' : 'No disponible'}"
+                                          th:class="${usuario.baja == 1 ? 'text-success fw-bold' : 'text-danger fw-bold'}"></span>
+                                </div>
+                                <div class="col-md-1">
+                                    <a class="btn btn-primary me-3" th:href="@{/ControladorUsuario/RutaActualizacionUsuario(idUsuario=${usuario.id})}">Actualizar</a>
+                                </div>
+                                <div class="col-md-2" th:if="${session.usuarioSesion.rol_id == 3}">  
+                                    <a th:if="${usuario.baja == 1}" class="btn btn-danger" th:href="@{/ControladorUsuario/DarBaja(idUsuario=${usuario.id})}">Dar de baja</a>
+                                    <a th:if="${usuario.baja == 0}" class="btn btn-success" th:href="@{/ControladorUsuario/DarAlta(idUsuario=${usuario.id})}">Dar de alta</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+
+</body>
+</html>

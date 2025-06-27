@@ -1,0 +1,59 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+   <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+<div th:replace="includes/Navbar.html"></div>
+
+<div class="container-fluid mt-4"> 
+    <div class="col-lg-9 col-md-11 col-sm-12 mx-auto">
+        <div class="card-header bg-primary text-white">
+            <h5 class="card-title">Lista de Proveedores</h5>
+        </div>
+        <div class="card">
+       <ul class="list-group list-group-flush">
+            <li class="list-group-item" th:each="proveedor : ${listaproveedores}" >
+              
+                <div class="row">
+                    <div class="col-md-2">
+                        <strong>Nombre:</strong> <span th:text="${proveedor.nombre}"></span>
+                    </div>
+                    <div class="col-md-1">
+                        <strong>Dirección:</strong> <span th:text="${proveedor.direccion}"></span>
+                    </div>
+                      <div class="col-md-1">
+                        <strong>Ciudad:</strong> <span th:text="${proveedor.ciudad}"></span>
+                    </div>
+                    <div class="col-md-2">
+                        <strong>Teléfono:</strong> <span th:text="${proveedor.telefono}"></span>
+                    </div>
+                    <div class="col-md-2">
+                        <strong>Email:</strong> <span th:text="${proveedor.email}"></span>
+                    </div>
+                   <div class="col-md-2">
+                        <strong>Estado:</strong> 
+                      
+                        <span th:text="${proveedor.baja == 1 ? 'Disponible' : 'No disponible'}"
+                              th:class="${proveedor.baja == 1 ? 'text-success fw-bold' : 'text-danger fw-bold'}"></span>
+                    </div>
+					<div class="col-md-2" th:if="${session.usuarioSesion.rol_id == 2}">
+					    <a class="btn btn-primary me-3" th:href="@{/ControladorProveedor/RutaActualizacionProveedor(idProveedor=${proveedor.id})}">Actualizar</a>
+
+					</div>
+
+                 <div class="col-md-2" th:if="${session.usuarioSesion.rol_id == 3}">  
+					    <a th:if="${usuario.baja == 1}" class="btn btn-danger" th:href="@{/ControladorProveedor/DarBajaProveedor(idProveedor=${proveedor.id})}">Dar de baja</a>
+					    <a th:if="${usuario.baja == 0}" class="btn btn-success" th:href="@{/ControladorProveedor/DarAltaProveedor(idProveedor=${proveedor.id})}">Dar de alta</a>
+					</div>
+                </div>
+            </li>
+        </ul>
+    </div>
+    </div>
+</div>
+
+<div th:replace="includes/Footer.html"></div>
+
+</body>
+</html>

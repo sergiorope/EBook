@@ -1,0 +1,38 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+    <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+    <div th:replace="includes/Navbar.html"></div>
+
+<div class="content">
+    <div class="container-fluid mt-2">
+    <div class="row">
+        <div class="col-lg-10 col-md-11 col-sm-12 mx-auto">
+        <div class="card">
+            <div class="card-header bg-info text-white">
+                <h5 class="card-title">Lista Configuración<i class="bi bi-gear-wide ms-2"></i></h5>
+            </div>
+            <ul class="list-group list-group-flush">
+                <li class="list-group-item" th:each="configuracion : ${configuracionlista}">
+                    <div class="row">
+                        <div class="col-md-3">
+                            <strong>Clave:</strong> <span th:text="${configuracion.clave}"></span>
+                        </div>
+                        <div class="col-md-7">
+                            <strong>Valor:</strong> <span th:text="${configuracion.valor}"></span>
+                        </div>
+                        <div class="col-md-2">  
+                            <a class="btn btn-primary me-1" th:href="@{/ControladorConfiguracion/RutaConfiguracionActualizacion(idConfiguracion=${configuracion.id})}">Actualizar</a>
+                        </div>
+                    </div>
+                </li>
+            </ul>
+        </div>
+    </div>
+     </div>
+    </div>
+      </div>
+</body>
+</html>

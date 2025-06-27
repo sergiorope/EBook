@@ -1,0 +1,1054 @@
+18:42:12,408  INFO IniciarSesion:58 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+
+19:00:52,336  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:00:52,970  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:00:53,133  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:00:53,134  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:00:53,134  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:00:53,134  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:00:53,139  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:00:53,162  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:00:53,984  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:00:54,309  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:04:45,056  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:04:45,553  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:04:45,697  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:04:45,697  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:04:45,697  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:04:45,697  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:04:45,703  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:04:45,725  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:04:46,434  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:05:01,140  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:06:52,660  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:06:53,134  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:06:53,284  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:06:53,288  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:06:53,289  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:06:53,289  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:06:53,294  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:06:53,455  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:06:54,201  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:06:54,446  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:07:08,237  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:08:02,489  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:08:32,293  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:08:32,867  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:08:33,026  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:08:33,026  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:08:33,026  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:08:33,027  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:08:33,032  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:08:33,053  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:08:33,833  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:08:37,865  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:11:02,171  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:16:43,329  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:16:43,859  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:16:44,026  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:16:44,026  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:16:44,027  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:16:44,027  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:16:44,034  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:16:44,058  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:16:44,929  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:16:49,770  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:34:58,275  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:52:05,458  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:52:05,939  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:52:06,083  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:52:06,084  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:52:06,084  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:52:06,084  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:52:06,089  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:52:06,113  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:52:06,976  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:52:12,191  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:54:31,382  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:54:31,934  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:54:32,079  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:54:32,079  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:54:32,079  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:54:32,079  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:54:32,084  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:54:32,107  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:54:32,819  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:54:33,032  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:56:25,111  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:56:25,574  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:56:25,713  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:56:25,713  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:56:25,713  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:56:25,713  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:56:25,718  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:56:25,739  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:56:26,467  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:56:31,153  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:02:03,842  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:02:04,305  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:02:04,455  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:02:04,459  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:02:04,459  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:02:04,459  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:02:04,465  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:02:04,623  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:02:05,315  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:02:05,546  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:04:13,907  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:04:14,371  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:04:14,513  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:04:14,513  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:04:14,513  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:04:14,514  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:04:14,518  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:04:14,537  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:04:15,222  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:04:15,433  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:05:22,882  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:05:23,467  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:05:23,629  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:05:23,629  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:05:23,630  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:05:23,630  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:05:23,635  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:05:23,657  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:05:24,450  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:05:24,711  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:08:08,021  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:08:08,608  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:08:08,779  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:08:08,779  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:08:08,779  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:08:08,779  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:08:08,785  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:08:08,807  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:08:09,640  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:08:14,058  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:10:51,543  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:10:52,055  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:10:52,205  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:10:52,205  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:10:52,205  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:10:52,206  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:10:52,212  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:10:52,234  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:10:52,943  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:10:53,163  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:12:41,675  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:12:42,250  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:12:42,411  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:12:42,411  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:12:42,411  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:12:42,411  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:12:42,417  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:12:42,439  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:12:43,237  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:12:43,474  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:12:49,926  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:12:50,476  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:12:50,643  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:12:50,648  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:12:50,648  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:12:50,648  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:12:50,655  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:12:50,834  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:12:51,604  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:12:51,861  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:19:39,931  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:19:40,512  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:19:40,670  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:19:40,670  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:19:40,671  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:19:40,671  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:19:40,676  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:19:40,698  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:19:41,480  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:19:41,716  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:23:05,382  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:23:05,883  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:23:06,028  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:23:06,028  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:23:06,028  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:23:06,028  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:23:06,034  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:23:06,055  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:23:06,761  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:23:06,982  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:58:54,491  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:58:55,100  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:58:55,279  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:58:55,280  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:58:55,280  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:58:55,280  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:58:55,287  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:58:55,317  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:58:56,129  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:58:56,443  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+21:05:19,114  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+21:05:19,726  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21:05:19,893  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:05:19,893  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+21:05:19,893  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+21:05:19,893  INFO pooling:132 - HHH10001003: Autocommit mode: false
+21:05:19,900  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:05:19,922  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+21:05:20,737  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+21:05:20,983  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+21:07:18,059  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+21:07:18,675  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+21:07:18,852  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+21:07:18,852  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+21:07:18,852  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+21:07:18,852  INFO pooling:132 - HHH10001003: Autocommit mode: false
+21:07:18,858  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+21:07:18,880  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+21:07:19,685  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+21:07:19,928  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+11:59:58,235  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:59:58,968  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:59:59,129  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:59:59,129  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:59:59,130  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:59:59,130  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:59:59,135  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:59:59,159  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:59:59,970  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:00:04,698  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+12:03:23,585  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+12:03:24,167  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:03:24,320  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:03:24,320  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+12:03:24,320  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+12:03:24,321  INFO pooling:132 - HHH10001003: Autocommit mode: false
+12:03:24,326  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:03:24,348  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+12:03:25,128  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:03:29,338  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+14:10:40,346  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+14:10:40,988  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+14:10:41,162  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:10:41,163  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+14:10:41,163  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+14:10:41,163  INFO pooling:132 - HHH10001003: Autocommit mode: false
+14:10:41,169  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:10:41,192  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:10:42,019  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+14:10:42,264  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+14:58:31,956  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+14:58:32,517  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+14:58:32,673  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:58:32,674  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+14:58:32,674  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+14:58:32,674  INFO pooling:132 - HHH10001003: Autocommit mode: false
+14:58:32,679  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:58:32,701  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:58:33,502  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+14:58:33,741  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+17:58:37,953  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+17:58:38,638  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+17:58:38,808  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+17:58:38,808  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+17:58:38,808  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+17:58:38,808  INFO pooling:132 - HHH10001003: Autocommit mode: false
+17:58:38,814  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+17:58:38,837  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+17:58:39,627  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+17:58:39,868  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:01:41,132  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:01:41,639  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:01:41,793  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:01:41,794  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:01:41,794  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:01:41,794  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:01:41,799  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:01:41,821  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:01:42,616  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:01:47,277  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:02:54,952  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:02:55,445  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:02:55,598  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:02:55,602  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:02:55,603  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:02:55,603  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:02:55,608  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:02:55,761  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:02:56,453  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:02:56,690  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:03:05,066  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:05:47,813  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:05:48,400  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:05:48,555  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:05:48,556  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:05:48,556  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:05:48,556  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:05:48,562  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:05:48,584  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:05:49,503  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:05:49,787  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+18:08:46,254  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:08:46,752  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:08:46,894  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:08:46,894  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:08:46,895  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:08:46,895  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:08:46,901  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:08:46,922  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:08:47,630  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:08:47,843  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+18:18:28,057  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:18:28,648  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:18:28,817  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:18:28,817  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:18:28,817  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:18:28,817  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:18:28,823  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:18:28,845  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:18:29,642  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:18:29,930  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:24:26,509  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:24:27,074  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:24:27,244  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:24:27,244  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:24:27,244  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:24:27,244  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:24:27,249  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:24:27,275  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:24:28,101  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:24:28,354  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:25:37,546  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:25:38,117  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:25:38,276  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:25:38,277  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:25:38,277  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:25:38,277  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:25:38,282  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:25:38,304  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:25:39,121  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:25:39,375  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+18:33:23,294  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:33:23,800  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:33:23,946  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:33:23,950  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:33:23,950  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:33:23,950  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:33:23,955  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:33:24,118  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:33:24,838  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:33:25,068  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+18:33:31,133  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:33:55,592  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+18:34:06,741  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:40:14,233  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:40:14,818  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:40:14,978  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:40:14,978  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:40:14,978  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:40:14,978  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:40:14,983  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:40:15,005  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:40:15,782  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:40:16,018  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:49:13,527  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:49:14,066  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:49:14,220  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:49:14,220  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:49:14,220  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:49:14,220  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:49:14,225  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:49:14,248  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:49:15,068  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:49:15,303  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:56:02,536  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:56:03,011  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:56:03,151  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:56:03,151  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:56:03,151  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:56:03,152  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:56:03,157  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:56:03,178  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:56:03,896  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:56:04,108  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:25:26,326  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:25:26,987  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:25:27,162  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:25:27,162  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:25:27,162  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:25:27,163  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:25:27,168  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:25:27,194  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:25:28,041  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:25:33,415  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: kike@gmail.com
+19:28:32,544  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:28:33,043  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:28:33,184  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:28:33,184  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:28:33,184  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:28:33,184  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:28:33,190  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:28:33,210  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:28:33,916  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:28:34,130  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: kike@gmail.com
+19:29:37,807  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: kike@gmail.com
+19:29:47,925  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: kike@gmail.com
+19:29:52,585  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: kike@gmail.com
+19:34:38,848  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:37:12,844  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: kike@gmail.com
+19:43:38,415  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:43:39,005  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:43:39,163  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:43:39,164  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:43:39,164  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:43:39,164  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:43:39,169  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:43:39,191  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:43:40,076  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:43:40,358  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:49:00,700  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:49:01,278  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:49:01,438  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:49:01,439  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:49:01,439  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:49:01,439  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:49:01,445  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:49:01,468  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:49:02,252  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:49:02,494  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:51:40,842  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:51:41,329  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:51:41,476  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:51:41,477  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:51:41,477  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:51:41,477  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:51:41,482  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:51:41,502  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:51:42,234  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:51:42,459  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+19:56:57,684  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:56:58,161  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:56:58,320  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:56:58,320  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:56:58,320  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:56:58,320  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:56:58,326  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:56:58,350  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:56:59,176  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:56:59,443  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:58:02,939  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:58:03,403  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:58:03,548  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:58:03,552  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:58:03,552  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:58:03,552  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:58:03,557  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:58:03,709  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:58:04,406  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:58:04,646  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+19:59:17,140  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:59:17,701  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:59:17,862  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:59:17,862  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:59:17,862  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:59:17,862  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:59:17,868  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:59:17,889  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:59:18,682  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:59:18,923  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:00:05,343  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:00:05,906  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:00:06,064  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:00:06,064  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:00:06,064  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:00:06,064  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:00:06,070  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:00:06,092  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:00:06,893  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:00:07,142  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:00:58,961  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:00:59,543  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:00:59,699  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:00:59,699  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:00:59,700  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:00:59,700  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:00:59,705  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:00:59,726  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:01:00,520  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:01:00,773  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:01:41,217  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:01:41,791  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:01:41,954  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:01:41,954  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:01:41,955  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:01:41,955  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:01:41,960  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:01:41,982  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:01:42,767  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:01:43,004  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:04:25,360  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:04:25,930  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:04:26,103  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:04:26,103  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:04:26,103  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:04:26,103  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:04:26,109  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:04:26,132  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:04:27,053  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:04:27,332  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:16:18,073  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:16:18,739  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:16:18,897  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:16:18,897  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:16:18,897  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:16:18,898  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:16:18,903  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:16:18,924  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:16:19,712  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:16:23,476  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: kike@gmail.com
+20:18:06,580  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:31:05,430  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:31:06,076  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:31:06,256  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:31:06,256  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:31:06,256  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:31:06,257  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:31:06,263  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:31:06,288  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:31:07,178  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:31:07,500  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:30:23,014  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:30:23,645  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:30:23,841  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:30:23,842  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:30:23,842  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:30:23,842  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:30:23,851  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:30:23,883  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:30:24,901  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:30:25,282  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:30:33,514  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:30:35,740  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:33:20,936  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:33:43,252  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:33:43,842  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:33:43,999  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:33:44,000  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:33:44,000  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:33:44,000  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:33:44,005  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:33:44,028  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:33:44,833  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:33:45,082  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+11:18:00,666  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:18:01,309  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:18:01,507  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:18:01,508  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:18:01,508  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:18:01,508  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:18:01,514  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:18:01,543  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:18:02,412  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:19:10,783  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+11:22:31,664  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:22:32,260  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:22:32,416  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:22:32,416  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:22:32,416  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:22:32,416  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:22:32,422  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:22:32,443  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:22:33,276  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:22:33,543  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+11:24:45,881  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:24:46,497  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:24:46,659  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:24:46,660  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:24:46,660  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:24:46,660  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:24:46,665  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:24:46,687  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:24:47,504  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:24:48,711  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+11:27:55,768  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:27:56,336  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:27:56,497  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:27:56,497  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:27:56,497  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:27:56,497  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:27:56,502  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:27:56,524  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:27:57,327  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:27:57,579  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+11:29:38,807  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:29:39,417  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:29:39,580  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:29:39,580  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:29:39,581  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:29:39,581  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:29:39,586  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:29:39,609  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:29:40,422  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:29:40,682  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+11:39:24,548  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:39:25,120  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:39:25,278  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:39:25,278  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:39:25,278  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:39:25,278  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:39:25,283  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:39:25,308  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:39:26,153  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:39:26,410  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+11:57:02,253  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+11:57:02,810  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+11:57:02,968  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+11:57:02,969  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+11:57:02,969  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+11:57:02,969  INFO pooling:132 - HHH10001003: Autocommit mode: false
+11:57:02,974  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+11:57:02,996  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+11:57:03,928  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+11:57:04,208  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+12:09:16,386  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+12:09:17,015  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:09:17,190  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:09:17,190  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+12:09:17,191  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+12:09:17,191  INFO pooling:132 - HHH10001003: Autocommit mode: false
+12:09:17,197  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:09:17,222  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+12:09:18,081  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:09:18,349  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+12:16:06,235  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+12:16:06,765  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:16:06,911  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:16:06,911  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+12:16:06,911  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+12:16:06,911  INFO pooling:132 - HHH10001003: Autocommit mode: false
+12:16:06,917  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:16:06,936  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+12:16:07,650  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:16:07,867  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+12:36:29,984  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+12:36:30,582  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:36:30,746  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:36:30,747  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+12:36:30,747  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+12:36:30,747  INFO pooling:132 - HHH10001003: Autocommit mode: false
+12:36:30,752  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:36:30,775  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+12:36:31,608  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:36:31,875  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+12:37:56,767  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+12:37:57,367  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:37:57,534  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:37:57,534  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+12:37:57,534  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+12:37:57,534  INFO pooling:132 - HHH10001003: Autocommit mode: false
+12:37:57,539  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:37:57,562  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+12:37:58,378  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:37:58,629  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+12:43:08,238  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+12:43:08,833  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:43:08,995  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:43:08,996  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+12:43:08,996  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+12:43:08,996  INFO pooling:132 - HHH10001003: Autocommit mode: false
+12:43:09,001  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:43:09,023  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+12:43:09,875  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:43:10,120  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+12:45:26,379  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+12:45:26,993  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+12:45:27,148  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+12:45:27,149  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+12:45:27,149  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+12:45:27,149  INFO pooling:132 - HHH10001003: Autocommit mode: false
+12:45:27,154  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+12:45:27,177  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+12:45:28,028  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+12:45:28,267  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+13:58:22,257  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+13:58:22,859  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+13:58:23,017  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:58:23,017  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+13:58:23,018  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+13:58:23,018  INFO pooling:132 - HHH10001003: Autocommit mode: false
+13:58:23,023  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+13:58:23,044  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+13:58:23,842  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13:58:24,090  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+22:26:49,932  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+22:26:50,524  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+22:26:50,685  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:26:50,685  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+22:26:50,685  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+22:26:50,685  INFO pooling:132 - HHH10001003: Autocommit mode: false
+22:26:50,691  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:26:50,713  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:26:51,506  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+22:26:51,800  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:36:38,020  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:36:38,588  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:36:38,749  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:36:38,749  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:36:38,749  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:36:38,750  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:36:38,754  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:36:38,777  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:36:39,562  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:36:39,806 ERROR IniciarSesion:61 - Inicio de sesión fallido para el usuario: admin@gmail.com
+00:36:42,217  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:36:51,843 ERROR IniciarSesion:61 - Inicio de sesión fallido para el usuario: admin@gmail.com
+00:37:04,751 ERROR IniciarSesion:61 - Inicio de sesión fallido para el usuario: juan@gmail.com
+00:37:08,589  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:38:37,063  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:38:37,652  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:38:37,815  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:38:37,816  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:38:37,816  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:38:37,816  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:38:37,821  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:38:37,843  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:38:38,646  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:38:45,750  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:40:36,476  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:40:36,977  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:40:37,130  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:40:37,130  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:40:37,130  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:40:37,130  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:40:37,136  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:40:37,157  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:40:37,880  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:40:38,101  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:43:53,298  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+13:12:06,210  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+13:12:06,795  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+13:12:06,956  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:12:06,957  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+13:12:06,957  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+13:12:06,957  INFO pooling:132 - HHH10001003: Autocommit mode: false
+13:12:06,962  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+13:12:06,987  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+13:12:07,784  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13:15:18,605  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+13:51:45,728  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+13:51:46,301  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+13:51:46,462  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+13:51:46,462  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+13:51:46,462  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+13:51:46,463  INFO pooling:132 - HHH10001003: Autocommit mode: false
+13:51:46,468  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+13:51:46,490  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+13:51:47,285  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+13:51:55,793  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+13:52:10,311  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+14:24:49,088  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+14:24:49,653  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+14:24:49,808  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+14:24:49,809  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+14:24:49,809  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+14:24:49,809  INFO pooling:132 - HHH10001003: Autocommit mode: false
+14:24:49,814  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+14:24:49,836  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+14:24:50,628  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+14:24:50,923  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+14:28:15,444  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+14:39:23,220  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+15:00:31,404  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:00:31,969  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:00:32,130  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:00:32,130  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+15:00:32,130  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+15:00:32,130  INFO pooling:132 - HHH10001003: Autocommit mode: false
+15:00:32,136  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:00:32,157  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:00:32,964  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:00:43,514  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+15:03:18,909  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:03:19,471  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:03:19,632  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:03:19,632  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+15:03:19,632  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+15:03:19,632  INFO pooling:132 - HHH10001003: Autocommit mode: false
+15:03:19,638  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:03:19,659  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:03:20,457  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:03:20,700  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+15:11:02,000  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:11:02,492  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:11:02,634  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:11:02,635  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+15:11:02,635  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+15:11:02,635  INFO pooling:132 - HHH10001003: Autocommit mode: false
+15:11:02,640  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:11:02,661  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:11:03,376  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:11:03,596  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+15:11:57,073  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:11:57,573  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:11:57,717  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:11:57,718  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+15:11:57,718  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+15:11:57,718  INFO pooling:132 - HHH10001003: Autocommit mode: false
+15:11:57,723  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:11:57,744  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:11:58,475  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:11:58,725  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+15:18:42,915  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:18:43,467  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:18:43,626  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:18:43,627  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+15:18:43,627  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+15:18:43,627  INFO pooling:132 - HHH10001003: Autocommit mode: false
+15:18:43,632  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:18:43,653  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:18:44,429  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:19:33,392  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+15:23:01,127  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:23:01,693  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:23:01,855  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:23:01,855  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+15:23:01,855  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+15:23:01,855  INFO pooling:132 - HHH10001003: Autocommit mode: false
+15:23:01,860  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:23:01,883  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:23:02,688  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:23:02,929  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+15:24:09,055  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+15:24:09,629  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+15:24:09,798  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+15:24:09,799  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+15:24:09,799  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+15:24:09,799  INFO pooling:132 - HHH10001003: Autocommit mode: false
+15:24:09,805  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+15:24:09,827  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+15:24:10,621  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+15:24:10,896  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+18:17:30,514  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:17:31,147  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:17:31,344  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:17:31,345  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:17:31,345  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:17:31,345  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:17:31,353  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:17:31,382  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:17:32,350  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:17:32,624  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+18:24:22,629  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:24:23,202  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:24:23,356  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:24:23,356  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:24:23,356  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:24:23,356  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:24:23,362  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:24:23,386  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:24:24,210  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:24:24,462  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:25:06,928  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:25:07,404  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:25:07,547  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:25:07,547  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:25:07,547  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:25:07,547  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:25:07,553  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:25:07,573  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:25:08,316  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:25:08,554  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:47:15,552  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:47:16,111  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:47:16,272  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:47:16,272  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:47:16,272  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:47:16,272  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:47:16,278  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:47:16,301  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:47:17,111  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:47:17,354  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:48:10,513  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:48:32,520  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:49:44,817  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:49:45,352  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:49:45,507  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:49:45,511  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:49:45,512  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:49:45,512  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:49:45,517  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:49:45,686  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:49:46,458  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:49:46,712  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:50:36,101  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:50:47,025  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:51:02,773  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:51:18,723  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:51:34,097  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+18:53:45,700  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+18:58:07,362  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:58:07,922  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:58:08,083  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:58:08,084  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:58:08,084  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:58:08,084  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:58:08,089  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:58:08,110  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:58:08,894  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:58:09,132  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+18:59:37,285  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+18:59:37,864  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+18:59:38,023  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+18:59:38,023  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+18:59:38,024  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+18:59:38,024  INFO pooling:132 - HHH10001003: Autocommit mode: false
+18:59:38,029  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+18:59:38,050  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+18:59:38,849  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+18:59:50,340  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+19:07:22,133  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:07:22,690  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:07:22,849  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:07:22,853  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:07:22,854  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:07:22,854  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:07:22,859  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:07:23,022  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:07:23,809  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:07:24,092  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+19:12:55,328  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:12:55,813  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:12:55,962  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:12:55,966  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:12:55,966  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:12:55,966  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:12:55,971  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:12:56,123  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:12:56,838  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:12:57,112  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+19:22:28,751  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+19:22:29,363  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+19:22:29,556  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+19:22:29,557  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+19:22:29,557  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+19:22:29,557  INFO pooling:132 - HHH10001003: Autocommit mode: false
+19:22:29,565  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+19:22:29,590  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+19:22:30,535  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+19:22:30,820  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:00:02,914  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+20:08:10,511  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+20:31:07,662  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+20:31:08,154  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+20:31:08,296  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+20:31:08,297  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+20:31:08,297  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+20:31:08,297  INFO pooling:132 - HHH10001003: Autocommit mode: false
+20:31:08,302  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+20:31:08,322  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+20:31:09,037  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+20:31:09,255  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+22:02:24,571  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+22:02:25,148  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+22:02:25,312  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:02:25,312  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+22:02:25,313  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+22:02:25,313  INFO pooling:132 - HHH10001003: Autocommit mode: false
+22:02:25,318  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:02:25,340  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:02:26,157  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+22:03:07,774  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+22:07:00,993  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+22:07:01,701  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+22:07:01,891  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+22:07:01,892  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+22:07:01,892  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+22:07:01,892  INFO pooling:132 - HHH10001003: Autocommit mode: false
+22:07:01,898  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+22:07:01,923  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+22:07:02,774  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+22:07:03,019  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+23:04:21,810  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+23:38:57,516  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+23:38:58,071  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+23:38:58,229  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:38:58,229  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+23:38:58,229  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+23:38:58,229  INFO pooling:132 - HHH10001003: Autocommit mode: false
+23:38:58,235  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:38:58,259  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:38:59,065  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:38:59,312  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+23:42:37,874  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+23:42:38,477  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+23:42:38,664  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+23:42:38,665  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+23:42:38,665  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+23:42:38,665  INFO pooling:132 - HHH10001003: Autocommit mode: false
+23:42:38,671  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+23:42:38,695  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+23:42:39,627  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+23:42:39,899  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+00:01:04,696  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergio160502@gmail.com
+00:01:16,585  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+00:01:46,855  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+00:02:47,005  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:02:47,724  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:02:47,902  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:02:47,903  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:02:47,903  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:02:47,903  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:02:47,908  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:02:47,930  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:02:48,765  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:02:49,007  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+00:08:27,369  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+00:12:29,794  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:12:30,366  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:12:30,523  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:12:30,523  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:12:30,524  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:12:30,524  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:12:30,529  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:12:30,549  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:12:31,329  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:12:31,578  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+00:50:53,461  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+00:50:54,062  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+00:50:54,226  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+00:50:54,226  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+00:50:54,226  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+00:50:54,226  INFO pooling:132 - HHH10001003: Autocommit mode: false
+00:50:54,232  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+00:50:54,255  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+00:50:55,073  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+00:51:04,735  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+01:06:34,940  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: erney@gmail.com
+01:19:33,532  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+01:23:01,075  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+01:23:01,665  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+01:23:01,822  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+01:23:01,823  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+01:23:01,823  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+01:23:01,823  INFO pooling:132 - HHH10001003: Autocommit mode: false
+01:23:01,828  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+01:23:01,850  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+01:23:02,692  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+01:23:02,988  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+07:46:42,548  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+07:46:43,154  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+07:46:43,324  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+07:46:43,324  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+07:46:43,324  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+07:46:43,324  INFO pooling:132 - HHH10001003: Autocommit mode: false
+07:46:43,330  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+07:46:43,355  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+07:46:44,202  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+07:47:40,436  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com
+07:51:41,415  INFO Version:44 - HHH000412: Hibernate ORM core version 5.6.15.Final
+07:51:41,961  INFO Version:56 - HCANN000001: Hibernate Commons Annotations {5.1.2.Final}
+07:51:42,115  WARN pooling:75 - HHH10001002: Using Hibernate built-in connection pool (not for production use!)
+07:51:42,115  INFO pooling:119 - HHH10001005: using driver [com.mysql.cj.jdbc.Driver] at URL [jdbc:mysql://localhost:3306/tiendaserbatic]
+07:51:42,116  INFO pooling:128 - HHH10001001: Connection properties: {password=****, user=root}
+07:51:42,116  INFO pooling:132 - HHH10001003: Autocommit mode: false
+07:51:42,121  INFO DriverManagerConnectionProviderImpl:322 - HHH000115: Hibernate connection pool size: 20 (min=1)
+07:51:42,145  INFO Dialect:175 - HHH000400: Using dialect: org.hibernate.dialect.MySQLDialect
+07:51:42,926  INFO JtaPlatformInitiator:52 - HHH000490: Using JtaPlatform implementation: [org.hibernate.engine.transaction.jta.platform.internal.NoJtaPlatform]
+07:51:43,164  INFO IniciarSesion:53 - Inicio de sesión exitoso para el usuario: sergioSerbatic2002@hotmail.com

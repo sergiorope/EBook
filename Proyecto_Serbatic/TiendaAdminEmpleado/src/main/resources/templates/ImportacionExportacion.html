@@ -1,0 +1,63 @@
+<!DOCTYPE html>
+<html lang="es">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Importación/Exportación de Productos</title>
+    <link href="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/css/bootstrap.min.css" rel="stylesheet">
+</head>
+<body>
+<div>
+<div th:replace="includes/Navbar.html"></div>
+</div>
+
+
+<div class="container mt-5">
+    <h1 class="text-center mb-5">Importación/Exportación de Productos</h1>
+<p class="ms-3" style="margin-left: 50px;">Porfavor, haz click en uno de los dos botones para realizar la acción de importar una serie de productos al catálogo o de exportar el catálogo mismo</p>
+    <hr class="w-50 mx-auto mb-5 mb-xl-9 border-dark-subtle">
+    
+    <div class="text-center">
+        <button id="importarBtn" class="btn btn-primary mr-3">Importación</button>
+        <button id="exportarBtn" class="btn btn-success">Exportación</button>
+    </div>
+    
+    <div id="importarForm" style="display:none;" class="text-center mt-4">
+        <form th:action="@{/ControladorProducto/Importacion}" method="POST" enctype="multipart/form-data">
+            <p>Por favor selecciona un archivo para importar al catálogo (.xls)</p>
+            <div class="custom-file mb-3">
+                <input type="file" class="custom-file-input" id="archivoExcel" name="archivoExcel" accept=".xls">
+<label class="custom-file-label" for="archivoExcel" style="margin-left: 20px;">Seleccionar archivo...</label>
+            </div>
+             <button id="importarBtn" class="btn btn-warning mr-3">Importar</button>
+  
+        </form>
+    </div>
+    
+    <div id="exportarForm" style="display:none;" class="text-center mt-4">
+        <form th:action="@{/ControladorProducto/Exportacion}" method="POST" enctype="multipart/form-data">
+            <p class="mb-3">Por favor pulse para exportar todo el catálogo de la tienda en un .xls</p>
+            <button type="submit" class="btn btn-success btn-warning">Exportar</button>
+        </form>
+    </div>
+</div>
+
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.16.0/umd/popper.min.js"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.5.2/js/bootstrap.min.js"></script>
+
+<script>
+    $(document).ready(function() {
+        $("#importarBtn").click(function() {
+            $("#importarForm").show();
+            $("#exportarForm").hide();
+        });
+        
+        $("#exportarBtn").click(function() {
+            $("#importarForm").hide();
+            $("#exportarForm").show();
+        });
+    });
+</script>
+</body>
+</html>

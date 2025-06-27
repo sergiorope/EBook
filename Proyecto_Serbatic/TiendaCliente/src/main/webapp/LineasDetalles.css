@@ -1,0 +1,11 @@
+@charset "ISO-8859-1";
+
+ .star-rating {
+            font-size: 25px;
+            cursor: pointer;
+        }
+ .star-rating span {
+            color: white;
+
+            text-shadow: 0px 0px 2px gray;
+        }

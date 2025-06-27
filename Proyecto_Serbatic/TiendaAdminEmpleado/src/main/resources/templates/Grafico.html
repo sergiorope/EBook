@@ -1,0 +1,212 @@
+<!DOCTYPE html>
+<html lang="en" xmlns:th="http://www.thymeleaf.org">
+<head>
+<title>Tienda</title>
+<th:block th:replace="includes/Head.html"></th:block>
+<script src="https://cdn.jsdelivr.net/npm/chart.js"></script>
+<link rel="stylesheet" href="../static/css/Grafico.css">
+
+<style>
+.small-chart-container {
+	width: 800px; /* Ajusta el ancho según tus necesidades */
+	height: 800px;
+	margin-left: 15%
+}
+
+.small-chart-containerSecond {
+	width: 800px; /* Ajusta el ancho según tus necesidades */
+	height: 800px;
+	margin-top: 10%;
+	margin-left: 10%;
+}
+</style>
+
+</head>
+<body>
+	<div th:replace="includes/Navbar.html"></div>
+
+
+	<div class="container">
+		<div id="carouselExampleControls" class="carousel slide  mt-2"
+			data-bs-ride="carousel">
+			<div class="carousel-inner">
+				<div class="carousel-item active">
+					  <h3 class="text-center text-muted mb-4">Productos más vendidos de E-BOOK</h3>
+					<div class="chart-container small-chart-container ">
+						<canvas id="ventasChart"></canvas>
+					</div>
+				</div>
+				<div class="carousel-item">
+					  <div class="container mt-3">
+				      
+				            <label for="valoracion-filter">Filtrar valoraciones:</label>
+				            <select id="valoracion-filter" name="rating" onchange="filtrarValoraciones(this.value)">
+							    <option value="all">Mostrar todas</option>
+							    <option value="1">Valoraciones de 1</option>
+							    <option value="2">Valoraciones de 2</option>
+							    <option value="3">Valoraciones de 3</option>
+							    <option value="4">Valoraciones de 4</option>
+							    <option value="5">Valoraciones de 5</option>
+							</select>				  
+				    </div>
+					<h2 class="text-center text-muted">Productos más valorados de E-BOOK</h2>
+					<div class="chart-container small-chart-containerSecond">
+						<canvas id="valoracionesChart"></canvas>
+					</div>
+				</div>
+			</div>
+			<button class="carousel-control-prev" type="button"
+				data-bs-target="#carouselExampleControls" data-bs-slide="prev">
+				<span class="carousel-control-prev-icon bg-primary"
+					aria-hidden="true"></span> <span class="visually-hidden">Previous</span>
+			</button>
+			<button class="carousel-control-next" type="button"
+				data-bs-target="#carouselExampleControls" data-bs-slide="next">
+				<span class="carousel-control-next-icon bg-primary"
+					aria-hidden="true"></span> <span class="visually-hidden">Next</span>
+			</button>
+		</div>
+	</div>
+
+
+
+	<script th:inline="javascript">
+    /*<![CDATA[*/
+    	window.addEventListener('resize', function(){
+        ventasChart.resize();
+        valoracionesChart.resize();
+    });
+    var ventasCtx = document.getElementById('ventasChart').getContext('2d');
+    var valoracionesCtx = document.getElementById('valoracionesChart').getContext('2d');
+
+    var nombresProductos = /*[[${nombresProductos}]]*/ [];
+    var nombresProductosVentas = /*[[${nombresProductosVentas}]]*/ [];
+    var ventasProductos = /*[[${productoporventas}]]*/ [];
+    var valoracionesProductos = /*[[${valoracionporproducto}]]*/ [];
+
+    // Extraer los datos de ventas
+    var idsProductosVentas = Object.keys(ventasProductos);
+    var ventasPorProducto = Object.values(ventasProductos);
+
+    // Datos para el gráfico de ventas
+    var ventasData = {
+        labels: nombresProductosVentas,
+        datasets: [{
+            label: 'Ventas por Producto',
+            backgroundColor: [
+                'rgb(255, 99, 132)',
+                'rgb(54, 162, 235)',
+                'rgb(255, 205, 86)',
+                'rgb(75, 192, 192)',
+                'rgb(23, 102, 89)',
+                'rgb(0, 192, 192)',
+                'rgb(75, 92, 98)',
+                'rgb(2, 192, 19)',                
+                'rgb(153, 102, 25)',
+                'rgb(30, 2, 194)',
+                'rgb(123, 123, 2)',
+                'rgb(65, 32, 65)'
+            ],
+            borderColor: 'rgb(255, 255, 255)',
+            borderWidth: 1,
+            data: ventasPorProducto
+        }]
+    };
+
+    // Datos para el gráfico de valoraciones
+    var idsProductosValoraciones = Object.keys(valoracionesProductos);
+    var valoracionesPorProducto = Object.values(valoracionesProductos);
+
+    var valoracionesData = {
+        labels: nombresProductos,
+        datasets: [{
+            label: 'Valoraciones por Producto',
+            backgroundColor: 'rgba(255, 99, 132, 0.5)',
+            borderColor: 'rgb(255, 99, 132)',
+            borderWidth: 2,
+            data: valoracionesPorProducto
+        }]
+    };
+
+    // Opciones comunes para ambos gráficos
+    var options = {
+        responsive: true,
+        cutoutPercentage: 8,
+        animation: {
+            animateScale: true,
+            animateRotate: true
+        },
+        legend: {
+            position: 'center'
+        }
+    };
+
+    // Crear el gráfico de ventas
+    var ventasChart = new Chart(ventasCtx, {
+        type: 'polarArea',
+        data: ventasData,
+        options: {
+            ...options,
+            title: {
+                display: true,
+                text: 'Ventas por Producto'
+            }
+        }
+    });
+
+    // Crear el gráfico de valoraciones (de barras)
+    var valoracionesChart = new Chart(valoracionesCtx, {
+        type: 'bar',
+        data: valoracionesData,
+        options: {
+            ...options,
+            title: {
+                display: true,
+                text: 'Valoraciones por Producto'
+            },
+            scales: {
+                yAxes: [{
+                    ticks: {
+                        beginAtZero: true
+                    }
+                }]
+            }
+        }
+    });
+    function filtrarValoraciones(valoracionSeleccionada) {
+        // Filtrar las valoraciones según el valor seleccionado
+        var valoracionesFiltradas = valoracionesPorProducto.filter(function(valoracion) {
+            if (valoracionSeleccionada === 'all') {
+                return true; // Si se selecciona "Mostrar todas", mostrar todas las valoraciones
+            } else {
+                return valoracion > parseFloat(valoracionSeleccionada); // Filtrar por valor superior al seleccionado
+            }
+        });
+
+        // Filtrar también los nombres de los productos basados en los índices de las valoraciones filtradas
+        var nombresFiltrados = [];
+        valoracionesPorProducto.forEach(function(valoracion, index) {
+            if (valoracionSeleccionada === 'all' || valoracion > parseFloat(valoracionSeleccionada)) {
+                nombresFiltrados.push(nombresProductos[index]); // Añadir el nombre correspondiente a la valoración filtrada
+            }
+        });
+
+        // Actualizar los datos del gráfico de valoraciones y sus etiquetas
+        valoracionesChart.data.labels = nombresFiltrados;
+        valoracionesChart.data.datasets[0].data = valoracionesFiltradas;
+        valoracionesChart.update();
+    }
+
+
+    /*]]>*/
+</script>
+	<script
+		src="https://cdnjs.cloudflare.com/ajax/libs/bootstrap/5.3.0/js/bootstrap.bundle.min.js"></script>
+	<script
+		src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.3/dist/js/bootstrap.bundle.min.js"
+		integrity="sha384-YvpcrYf0tY3lHB60NNkmXc5s9fDVZLESaAA55NDzOxhy9GkcIdslK1eN7N6jIeHz"
+		crossorigin="anonymous"></script>
+
+
+</body>
+</html>

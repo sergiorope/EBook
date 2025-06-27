@@ -1,0 +1,17 @@
+@charset "UTF-8";
+
+img {
+  
+    height: 10%;
+    width:10%;
+   
+}
+
+
+.btn-rojo {
+    background-color: #ff0000; 
+    border-color: #ff0000; 
+}
+
+
+

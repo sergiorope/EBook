@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html xmlns:th="http://www.thymeleaf.org">
+<head>
+   <th:block th:replace="includes/Head.html"></th:block>
+</head>
+<body>
+
+<div>
+<div th:replace="includes/Navbar.html"></div>
+</div>
+<div class="content">
+<div class="container-fluid  mt-2">
+    <div class="d-flex justify-content-center align-items-center">
+        <div class="row">
+            <div class="col-lg-12 col-md-11 col-sm-12">
+                <div class="card ">
+                    <div class="card-header bg-primary text-white ">
+                        <h5 class="card-title">Lista de Productos<i class="bi bi-book ms-2"></i></h5>
+                    </div>
+                    <ul class="list-group list-group-flush">
+                        <li class="list-group-item" th:each="producto : ${listaproductos}" >
+                            <div class="row">
+                                <div class="col-md-3">
+                                    <strong>Nombre:</strong> <span th:text="${producto.nombre}"></span>
+                                </div>
+                                <div class="col-md-2">
+                                    <strong>Categoría:</strong> <span th:text="${productoporcategoria[producto.id]}"></span>
+                                </div>
+                                <div class="col-md-1">
+                                    <strong>Stock:</strong> <span th:text="${producto.stock}"></span>
+                                </div>
+                                <div class="col-md-2">
+                                    <strong>Estado:</strong> 
+                                    <span th:text="${producto.baja == 1 ? 'Disponible' : 'No disponible'}"
+                                          th:class="${producto.baja == 1 ? 'text-success fw-bold' : 'text-danger fw-bold'}"></span>
+                                </div>
+                                <div class="col-md-1">
+                                    <strong>Precio:</strong> <span th:text="${producto.precio}"></span>€
+                                </div>
+                                <div class="col-md-1">
+                                    <a class="btn btn-primary me-3" th:href="@{/ControladorProducto/RutaActualizacionProducto(idProducto=${producto.id})}">Actualizar</a>
+                                </div>
+                                <div class="col-md-2" th:if="${session.usuarioSesion.rol_id == 3}">
+                                    <a th:if="${producto.baja == 1}" class="btn btn-danger" th:href="@{/ControladorProducto/DarBaja(idProducto=${producto.id})}">Dar de baja</a>
+                                    <a th:if="${producto.baja == 0}" class="btn btn-success" th:href="@{/ControladorProducto/DarAlta(idProducto=${producto.id})}">Dar de alta</a>
+                                </div>
+                            </div>
+                        </li>
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </div>
+</div>
+</div>
+</body>
+</html>

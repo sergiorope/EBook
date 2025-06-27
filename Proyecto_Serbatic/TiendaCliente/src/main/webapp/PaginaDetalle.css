@@ -1,0 +1,62 @@
+@charset "ISO-8859-1";
+
+body {
+    font-family: 'Roboto', sans-serif;
+    margin: 0;
+    padding: 0;
+    background-color: #f4f4f4;
+}
+
+
+
+
+.estrellarestante {
+    color: black;
+}
+
+.container {
+    max-width: 800px;
+    margin: 50px auto;
+}
+
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    padding: 20px;
+}
+
+h1 {
+    text-align: center;
+    margin-bottom: 30px;
+    font-family: 'Roboto', sans-serif;
+}
+
+.product-details {
+    display: flex;
+    flex-direction: column;
+}
+
+.product-info {
+    margin-bottom: 15px;
+}
+
+.label {
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+}
+
+.value {
+    margin-left: 10px;
+    font-family: 'Roboto', sans-serif;
+}
+
+img {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin-top: 10px;
+    border-radius: 8px;
+}
+
+
