@@ -19,10 +19,12 @@ Está desarrollado con J2EE para el lado cliente y Spring Boot en el lado servid
 
 📂 Estructura del Proyecto
 
+EbookEcommerce/
 ├── TiendaAdminEmpleado/        # Parte servidora: gestión de pedidos, productos y usuarios (Spring Boot)
 ├── TiendaCliente/              # Parte cliente: visualización de tienda, contacto, valoraciones, pedidos (J2EE)
 ├── ebookRodriguezPerez.sql     # Script de base de datos para iniciar el proyecto desde cero
 └── README.md                   # Documentación del proyecto
+
 
 
 📝 Notas
