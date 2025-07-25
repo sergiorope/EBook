@@ -21,7 +21,4 @@ Está desarrollado con J2EE para el lado cliente y Spring Boot en el lado servid
 📝 Notas
 El sistema sigue una arquitectura por capas con separación de responsabilidades.
 
-✍️ Autor
-Sergio Rodríguez Pérez
-Desarrollador Backend - Java & Spring Boot
-📧 sergio160502@gmail.com
+
