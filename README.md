@@ -1,5 +1,5 @@
 📦 E-Book - E-commerce
-Este proyecto es una aplicación web de comercio electrónico que permite gestionar productos, realizar pedidos y administrar usuarios desde un entorno dividido entre cliente y servidor.
+Este proyecto es una aplicación web de comercio electrónico que permite gestionar productos, realizar pedidos y administrar usuarios y muchas mas funciones desde un entorno dividido entre cliente y servidor.
 Está desarrollado con J2EE para el lado cliente y Spring Boot en el lado servidor, siguiendo una arquitectura MVC.
 
 🛠️ Tecnologías utilizadas
